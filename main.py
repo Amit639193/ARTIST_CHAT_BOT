@@ -15,7 +15,7 @@ API_ID = os.environ.get("API_ID", None)
 API_HASH = os.environ.get("API_HASH", None) 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", None) 
 MONGO_URL = os.environ.get("MONGO_URL", None)
-BOT_USERNAME = os.environ.get("BOT_USERNAME","") 
+BOT_USERNAME = os.environ.get("BOT_USERNAME","Hot_Queen_Robot") 
 UPDATE_CHNL = os.environ.get("UPDATE_CHNL","https://t.me/KGF_ROCY")
 OWNER_USERNAME = os.environ.get("OWNER_USERNAME","@MRAATMA")
 SUPPORT_GRP = os.environ.get("SUPPORT_GRP","https://t.me/KGF_ROCY")
@@ -38,7 +38,7 @@ START =f"""
 **──────────────────**
 **➻ ᴜsᴀɢᴇ /chatbot [on/off]**
 **๏ ᴛᴏ ɢᴇᴛ ʜᴇʟᴘ ᴜsᴇ /help**
-**INOCENT_aatma_NETWORK**
+**INOCENT_AATMA_NETWORK**
 """
 SOURCE_TEXT = f"""
 **๏ ʜᴇʏ, ɪ ᴀᴍ [{BOT_NAME}]
